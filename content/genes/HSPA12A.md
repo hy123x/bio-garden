@@ -16,13 +16,13 @@ date: 2026-09-02
 
 ## 基本信息
 
-| 项目 | 内容 |
-|------|------|
-| 全称 | Heat shock protein family A (Hsp70) member 12A |
+| 项目    | 内容                                             |
+| ------- | ------------------------------------------------ |
+| 全称    | Heat shock protein family A (Hsp70) member 12A   |
 | UniProt | [O43301](https://www.uniprot.org/uniprot/O43301) |
-| 家族 | HSP70 超家族（**非经典/非典型成员**） |
-| 长度 | 675 aa |
-| 别名 | FLJ21818 |
+| 家族    | HSP70 超家族（**非经典/非典型成员**）            |
+| 长度    | 675 aa                                           |
+| 别名    | FLJ21818                                         |
 
 ## 功能概述
 
